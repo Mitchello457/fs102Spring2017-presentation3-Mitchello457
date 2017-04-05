@@ -1,9 +1,9 @@
-# fs102Spring2017-presentation2-Mitchello457
+# fs102Spring2017-presentation3-Mitchello457
 
 This repository contains the HTML source code and additional resources for a presentation that I, [Mitchell Lachat](https://mitchello457.github.io/), gave in my FS 102 Software Everywhere class at [Allegheny College](http://allegheny.edu/). It is based off of a presentation that my professor, [Gregory Kapfhammer](http://www.cs.allegheny.edu/sites/gkapfham/), gave during a panel at the 27th International Conference on Software Engineering and Knowledge Engineering (SEKE 2015). The presentation's source code uses the reveal.js framework to control the display of each slide. The original presentation can be found [here](https://github.com/gkapfham/seke2015-panel-presentation).
 
 Are you interested in previewing the presentation without having to download the code and resources from the GitHub
-site? Well, you can! Please view [The Dulling of Skillsets](https://rawgit.com/Mitchello457/fs102Spring2017-presentation2-Mitchello457/master/The_Dulling_of_Skillsets.html).
+site? Well, you can! Please view [The Dulling of Skillsets](https://rawgit.com/Mitchello457/fs102Spring2017-presentation3-Mitchello457/master/Does_Piracy_Need_to%20_be_Ended_%20Completely.html).
 
 ## Installation Instructions
 
